@@ -1,6 +1,6 @@
 name: Major P
 favicon: null
-layout_spectrum: 0.00198
+layout_spectrum: 1
 typography_spectrum: 0.3858093249145895
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#bb1737'
     - '#407f40'
     - '#c4a350'
-  brandStrength: 0.9375
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 1
