@@ -1,0 +1,28 @@
+name: Major P
+favicon: null
+layout_spectrum: 0.7390881374012679
+typography_spectrum: 0.3858093249145895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9883583122864366
+  lightness: 0.3649713557679206
+  saturation: 0.18449297966435552
+  rhythmicContrast: 0.08214426226913929
+purpose: []
